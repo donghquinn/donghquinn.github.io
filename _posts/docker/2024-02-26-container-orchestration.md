@@ -5,7 +5,6 @@ date: 2024-02-26 05:50:00 +0900
 categories: [Docker, Orchestration]
 tags: [docker, docker-compose, docker-swarm]
 comments: true
-pin: true
 math: true
 mermaid: true
 image:

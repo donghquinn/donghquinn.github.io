@@ -5,7 +5,6 @@ date: 2024-02-26 06:13:00 +0900
 categories: [Docker, Credential]
 tags: [docker, docker-compose, credential]
 comments: true
-pin: true
 math: true
 mermaid: true
 image:
@@ -13,7 +12,7 @@ image:
   alt: Docker logo
 ---
 
-# 도커 이미지 허브
+## 도커 이미지 허브
 
 도커 이미지는 빌드되어 정적인 상태로 관리된다. 때문에 저장장치에 이미지를 업로드하여 url을 통해 내려 받아 와 사용할 수 있다. 이른바 CI/CD 의 일종으로 볼 수 있을 것 같다. 그런데 개인적인 프로젝트나, 회사 내부 프로젝트일 경우 이미지는 내부에서 관리되어야 하고 유출되면 곤란하다. 때문에 도커 이미지 레지스트리 관리 오픈소스 툴인 harbor 를 이용해 이미지를 관리해 왔다.
 
