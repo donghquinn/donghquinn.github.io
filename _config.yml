@@ -97,7 +97,7 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: # <gh-username>/<repo>
+    repo: "donghquinn/donghquinn.github.io" # <gh-username>/<repo>
     repo_id:
     category:
     category_id:
@@ -112,7 +112,7 @@ assets:
     enabled: # boolean, keep empty means false
     # specify the Jekyll environment, empty means both
     # only works if `assets.self_host.enabled` is 'true'
-    env: # [development | production]
+    env: "production" # [development | production]
 
 pwa:
   enabled: true # the option for PWA feature (installable)
@@ -127,7 +127,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+baseurl: "/"
 
 # ------------ The following options are not recommended to be modified ------------------
 
