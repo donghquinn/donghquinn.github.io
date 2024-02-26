@@ -10,8 +10,11 @@ math: true
 mermaid: true
 image:
   path: ./docker-logo-blue.png
-  alt: Docker Official Logo
+  alt: Docker logo
 ---
+
+![docker-logo](docker-logo-blue.png)
+![img-description](./docker-logo-blue.png)
 
 도커를 사용하는 방법은 도커 CLI를 사용하거나 컴포즈를 사용하는 것이다.
 
