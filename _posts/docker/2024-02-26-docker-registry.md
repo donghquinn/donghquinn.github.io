@@ -3,7 +3,7 @@ title: 개인 도커 이미지 허브
 author: donghquinn
 date: 2024-02-26 05:24:00 +0900
 categories: [Docker]
-tags: [Docker, Docker-Compose]
+tags: [docker, docker-compose]
 comments: true
 pin: true
 math: true
