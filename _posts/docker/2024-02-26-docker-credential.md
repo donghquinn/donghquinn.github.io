@@ -2,8 +2,8 @@
 title: 개인 도커 이미지 허브와 크레덴셜
 author: donghquinn
 date: 2024-02-26 05:32:00 +0900
-categories: [Docker, Orchestration]
-tags: [docker, docker-compose, docker-swarm]
+categories: [Docker, Credential]
+tags: [docker, docker-compose, credential]
 comments: true
 pin: true
 math: true
