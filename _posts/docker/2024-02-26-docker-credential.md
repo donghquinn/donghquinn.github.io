@@ -29,7 +29,6 @@ Credential은 로컬에 그대로 저장하는 것이 아닌, 암호화 시키�
 
 - [스크립트 원문](https://geoffhudik.com/tech/2020/09/15/docker-pass-credential-helper-on-ubuntu/)
 
-
 ```shell
 #!/bin/sh
 # Sets up a docker credential helper so docker login credentials are not stored encoded in base64 plain text.
