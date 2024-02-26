@@ -1,7 +1,7 @@
 ---
 title: 도커 컴포즈와 도커 스웜을 이용한 오케스트레이션
 author: donghquinn
-date: 2024-02-26 05:32:00 +0900
+date: 2024-02-26 05:50:00 +0900
 categories: [Docker, Orchestration]
 tags: [docker, docker-compose, docker-swarm]
 comments: true
