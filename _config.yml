@@ -98,11 +98,11 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: "donghquinn/donghquinn.github.io" # <gh-username>/<repo>
-    repo_id:
-    category:
-    category_id:
-    mapping: # optional, default to 'pathname'
-    input_position: # optional, default to 'bottom'
+    repo_id: R_kgDOLX81OA
+    category: General
+    category_id: DIC_kwDOLX81OM4CdhD5
+    mapping: pathname # optional, default to 'pathname'
+    input_position: bottom # optional, default to 'bottom'
     lang: # optional, default to the value of `site.lang`
     reactions_enabled: # optional, default to the value of `1`
 
