@@ -19,6 +19,11 @@ image:
 우선 API가 무엇인지 이해를 해야 할 것 같다. API란 Application Programming Interface의 약자로, 다른 소프트웨어 시스템과 통신하기 위해 따라야 하는 규칙이다.
 즉 데이터와 기능의 집합을 제공하여 프로그램 간 성호 작용을 통해, 정보를 교환 가능하도록 하는 것
 
+## HTTP URI
+
+리소스를 고유하게 식별하는 것
+- ex. www.example.com/font/2 에서 2가 리소스
+
 ## REST 란?
 
 ### 목표
