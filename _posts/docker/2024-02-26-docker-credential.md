@@ -7,10 +7,12 @@ tags: [docker, docker-compose, credential]
 comments: true
 math: true
 mermaid: true
-image:
-  path: assets/img/docker.png
-  alt: Docker
+# image:
+#   path: assets/img/docker.png
+#   alt: Docker
 ---
+
+<img data-action="zoom" src="/assets/img/docker.png" alt="Docker Logo"/>
 
 ## 도커 이미지 허브
 

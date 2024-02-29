@@ -22,6 +22,7 @@ image:
 ## HTTP URI
 
 리소스를 고유하게 식별하는 것
+
 - ex. www.example.com/font/2 에서 2가 리소스
 
 ## REST 란?
