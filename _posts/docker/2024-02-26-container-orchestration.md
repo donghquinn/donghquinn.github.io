@@ -7,9 +7,9 @@ tags: [docker, docker-compose, docker-swarm]
 comments: true
 math: true
 mermaid: true
-# image:
-#   path: assets/img/docker.png
-#   alt: Docker
+image:
+  path: assets/img/docker.png
+  alt: Docker
 ---
 
 <img data-action="zoom" src="/assets/img/docker.png" alt="Docker Logo"/>
