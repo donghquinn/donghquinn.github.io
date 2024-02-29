@@ -19,6 +19,7 @@ title: DongHyun blog # the main title
 tagline:  donghquinn # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
+  비전공자 개발 일지
   Donghyun's Tech Blog
 
 # Fill in the protocol & hostname for your site.
@@ -40,7 +41,7 @@ social:
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
-google_site_verification: mwrlOO_4OAzED_aIUXnDGDdft4nnCMIQJBF5lc3-NDE # fill in to your verification string
+google_site_verification:  # fill in to your verification string
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
