@@ -11,6 +11,8 @@ image:
   path: assets/img/restapi.png
   alt: RESTful API
 ---
+<img></img>
+<em> Docker Logo </em>
 
 백엔드 코드를 구현할 때 RESTful API 라는 개념이 자주 등장한다. 과연 이게 무엇일까
 
