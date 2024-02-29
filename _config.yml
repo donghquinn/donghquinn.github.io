@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: DongHyun blog # the main title
 
-tagline:  donghquinn # it will display as the sub-title
+tagline: 비전공자 개발 일지 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   비전공자 개발 일지
@@ -75,14 +75,14 @@ theme_mode: "dark"
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: "https://chirpy-img.netlify.app"
+# img_cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "assets/img/logo.png"
+avatar: assets/img/logo.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: "local" # string, local or CORS resources
+# social_preview_image: "local" # string, local or CORS resources
 
 # boolean type, the global switch for TOC in posts.
 toc: true
@@ -128,7 +128,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "/donghquinn.github.io"
+baseurl: "/"
 
 # ------------ The following options are not recommended to be modified ------------------
 
