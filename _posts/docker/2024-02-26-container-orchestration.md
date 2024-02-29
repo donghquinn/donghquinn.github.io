@@ -8,7 +8,7 @@ comments: true
 math: true
 mermaid: true
 image:
-  path: /assets/img/logo/docker-logo-blue.png
+  path: /docker-logo-blue.png
   alt: Docker logo
 ---
 
