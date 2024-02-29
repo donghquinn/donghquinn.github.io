@@ -9,8 +9,8 @@ pin: true
 math: true
 mermaid: true
 image:
-  path: assets/img/docker-logo-blue.png
-  alt: Docker logo
+  path: assets/img/docker.png
+  alt: Docker
 ---
 
 도커를 사용하는 방법은 도커 CLI를 사용하거나 컴포즈를 사용하는 것이다.

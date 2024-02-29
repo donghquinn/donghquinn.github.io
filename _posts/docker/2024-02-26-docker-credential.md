@@ -8,8 +8,8 @@ comments: true
 math: true
 mermaid: true
 image:
-  path: assets/img/docker-logo-blue.png
-  alt: Docker logo
+  path: assets/img/docker.png
+  alt: Docker
 ---
 
 ## 도커 이미지 허브

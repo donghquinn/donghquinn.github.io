@@ -8,8 +8,8 @@ comments: true
 math: true
 mermaid: true
 image:
-  path: assets/img/docker-logo-blue.png
-  alt: Docker logo
+  path: assets/img/docker.png
+  alt: Docker
 ---
 
 ## 컨테이너 오케스트레이션
