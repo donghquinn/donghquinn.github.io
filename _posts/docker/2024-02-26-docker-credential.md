@@ -13,6 +13,7 @@ mermaid: true
 ---
 
 <img data-action="zoom" src="/assets/img/docker.png" alt="Docker Logo"/>
+<em> Docker Logo </em>
 
 ## 도커 이미지 허브
 

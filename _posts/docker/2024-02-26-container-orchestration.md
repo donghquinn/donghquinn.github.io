@@ -13,6 +13,7 @@ mermaid: true
 ---
 
 <img data-action="zoom" src="/assets/img/docker.png" alt="Docker Logo"/>
+<em> Docker Logo </em>
 
 ## 컨테이너 오케스트레이션
 
