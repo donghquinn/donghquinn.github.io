@@ -2,7 +2,7 @@
 title: 도커와 도커 컴포즈와 설치에 관하여
 author: donghquinn
 date: 2024-02-26 05:32:00 +0900
-categories: [Docker]
+categories: [Docker, Docker-Compose]
 tags: [docker, docker-compose]
 comments: true
 pin: true
@@ -10,11 +10,8 @@ math: true
 mermaid: true
 image:
   path: assets/img/docker.png
-  alt: Docker
+  alt: Docker Logo
 ---
-
-<img data-action="zoom" src="/assets/img/docker.png" alt="Docker Logo"/>
-<em> Docker Logo </em>
 
 도커를 사용하는 방법은 도커 CLI를 사용하거나 컴포즈를 사용하는 것이다.
 
