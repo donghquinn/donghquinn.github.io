@@ -7,10 +7,13 @@ tags: [docker, docker-compose, docker-swarm]
 comments: true
 math: true
 mermaid: true
-image:
-  path: assets/img/docker.png
-  alt: Docker Logo
+# image:
+#   path: assets/img/docker.png
+#   alt: Docker Logo
 ---
+
+<img src="assets/img/docker.png" />
+<em> Docker Logo </em>
 
 ## 컨테이너 오케스트레이션
 
