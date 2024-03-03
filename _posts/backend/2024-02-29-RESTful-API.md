@@ -96,3 +96,5 @@ REST 기반으로 API를 구현한 것을 RESTful 웹 서비스라고 지칭한�
 4. 밑줄 (_)은 URI에 사용하지 않는다.
 5. URI는 최대한 소문자를 사용한다.
 6. 파일 확장자는 URI에 포함하지 않는다.
+
+[참고 링크](https://hahahoho5915.tistory.com/54)
