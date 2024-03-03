@@ -1,6 +1,8 @@
 ---
 title: 도커와 도커 컴포즈와 설치에 관하여
-author: donghquinn
+author: 
+  name: donghquinn
+  link: https://github.com/donghquinn
 date: 2024-02-26 05:32:00 +0900
 categories: [Docker, Docker-Compose]
 tags: [docker, docker-compose]

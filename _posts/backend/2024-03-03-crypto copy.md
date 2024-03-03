@@ -1,6 +1,8 @@
 ---
 title: 암호화
-author: donghquinn
+author: 
+  name: donghquinn
+  link: https://github.com/donghquinn
 date: 2024-03-03 04:30:00 +0900
 categories: [Backend]
 tags: [crypto, md5, hash, sha, seed]

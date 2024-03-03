@@ -1,6 +1,8 @@
 ---
 title: RESTful API란?
-author: donghquinn
+author: 
+  name: donghquinn
+  link: https://github.com/donghquinn
 date: 2024-02-29 00:7:00 +0900
 categories: [Backend]
 tags: [RESTful, API]
