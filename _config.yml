@@ -57,17 +57,6 @@ analytics:
 # pageviews:
 #   provider: "goatcounter" # now only supports 'goatcounter'
 
-# Prefer color scheme setting.
-#
-# Note: Keep empty will follow the system prefer color by default,
-# and there will be a toggle to switch the theme between dark and light
-# on the bottom left of the sidebar.
-#
-# Available options:
-#
-#     light  - Use the light color scheme
-#     dark   - Use the dark color scheme
-#
 theme_mode: "dark"
 
 # The CDN endpoint for images.
@@ -100,7 +89,7 @@ comments:
   giscus:
     repo: donghquinn/donghquinn.github.io # <gh-username>/<repo>
     repo_id: R_kgDOLX81OA
-    category: General
+    category: Announcements
     category_id: DIC_kwDOLX81OM4CdhD5
     mapping: pathname # optional, default to 'pathname'
     input_position: bottom # optional, default to 'bottom'
