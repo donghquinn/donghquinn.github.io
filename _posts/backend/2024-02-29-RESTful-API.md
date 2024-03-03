@@ -1,8 +1,6 @@
 ---
 title: RESTful API란?
-author: 
-  name: donghquinn
-  link: https://github.com/donghquinn
+author: donghquinn
 date: 2024-02-29 00:7:00 +0900
 categories: [Backend]
 tags: [RESTful, API]
@@ -19,20 +17,20 @@ mermaid: true
 
 백엔드 코드를 구현할 때 RESTful API 라는 개념이 자주 등장한다. 과연 이게 무엇일까
 
-##  API란?
+# API란?
 
 우선 API가 무엇인지 이해를 해야 할 것 같다. API란 Application Programming Interface의 약자로, 다른 소프트웨어 시스템과 통신하기 위해 따라야 하는 규칙이다.
 즉 데이터와 기능의 집합을 제공하여 프로그램 간 성호 작용을 통해, 정보를 교환 가능하도록 하는 것
 
-## HTTP URI
+# HTTP URI
 
 리소스를 고유하게 식별하는 것, URL과 보통 혼용되고 있다.
 
 - ex. www.example.com/font/2 에서 2가 리소스
 
-## REST 란?
+# REST 란?
 
-### 목표
+## 목표
 
 1. 컴포넌트 간 확장성을 가진 상호 연동성 확보
 2. 범용 인터페이스
@@ -40,7 +38,7 @@ mermaid: true
 4. 지연 감소, 보안 강화, 레거시 시스템을 인캡슐레이션 하는 중간 컴포넌트로의 역할
   - 인캡슐레이션: 데이터에 헤더가 추가되는 과정. 즉, 한 프로그램에서 다른 프로그램으로 데이터를 전송할 때 데이터를 패키지화 하는 과정
 
-### 개념
+## 개념
 
 REST는 Representational State Transfer(REST)의 약자로, API 작동 방식에 대한 조건을 부과하는 소프트웨어 아키텍처이다.
 네트워크 상에서 Client와 Server 사이의 통신 방신 중 하나로, **자원을 이름으로 구분**하여 해당 **자원의 상태를 주고 받는 모든 것**을 의미하는 것이다.
@@ -63,7 +61,7 @@ HTTP Method (POST, GET, PUT, DELETE)를 통해 자원에 대한 CRUD Operation�
   - Delete: 삭제 (DELETE)
   - HEAD: header 정보 조회 (HEAD)
 
-### REST 특징
+## REST 특징
 
 - 클라이언트 / 서버 구조
   - 클라이언트는 유저 관련 처리, 서버는 REST API 제공으로 역할 분리
@@ -87,13 +85,13 @@ HTTP Method (POST, GET, PUT, DELETE)를 통해 자원에 대한 CRUD Operation�
 - 유니폼 인터페이스
   - HTTP 표준에만 따른다면 모든 플랫폼에서 사용 가능하며, 리소스 조작이 통일되기 때문에 **특정 언어나 기술에 종속되지 않는다**
 
-## RESTful API란?
+# RESTful API란?
 
 REST 기반으로 API를 구현한 것을 RESTful 웹 서비스라고 지칭한다.
 확장성과 재사용성을 높여 유지보수 및 운용의 편리성을 확보할 수 있다.
 개인적으로 정의하자면, 통신의 표준화라고 생각한다.
 
-## 규칙
+# 규칙
 
 1. 슬레시(/)는 계층 관계를 나타내는데 사용한다.
 2. URI 마지막 문자로 슬레시(/)는 사용하지 않는다.

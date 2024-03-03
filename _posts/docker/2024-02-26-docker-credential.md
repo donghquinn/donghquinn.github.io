@@ -1,8 +1,6 @@
 ---
 title: 개인 도커 이미지 허브와 크레덴셜
-author: 
-  name: donghquinn
-  link: https://github.com/donghquinn
+author: donghquinn
 date: 2024-02-26 06:13:00 +0900
 categories: [Docker, Credential]
 tags: [docker, docker-compose, credential]
@@ -17,15 +15,15 @@ mermaid: true
 <img src="assets/img/docker.png" />
 <em> Docker Logo </em>
 
-## 도커 이미지 허브
+# 도커 이미지 허브
 
 도커 이미지는 빌드되어 정적인 상태로 관리된다. 때문에 저장장치에 이미지를 업로드하여 url을 통해 내려 받아 와 사용할 수 있다. 이른바 CI/CD 의 일종으로 볼 수 있을 것 같다. 그런데 개인적인 프로젝트나, 회사 내부 프로젝트일 경우 이미지는 내부에서 관리되어야 하고 유출되면 곤란하다. 때문에 도커 이미지 레지스트리 관리 오픈소스 툴인 harbor 를 이용해 이미지를 관리해 왔다.
 
-## 보안
+# 보안
 
 이미지를 업로드한 저장소에 접근하기 위해선 저장소 접근 권한을 통해 로그인을 해야 한다. 그런데 리눅스 기반의 운영체제에서 (다른 운영체제는 잘 모르겠다) docker login 명령어를 통해 접근하려고 하면, 로컬에 해당 민감정보가 저장되어 버린다는 끔찍한 문제점이 존재한다. 때문에 도커에서도 공식적으로 이러한 방식이 아닌 credential을 이용해 접근하라고 권고하고 있다.
 
-## Docker Credential
+# Docker Credential
 
 - [공식 레포지토리](https://github.com/docker/docker-credential-helpers
 )
@@ -123,7 +121,7 @@ echo "Done. Ready to test. Run: docker login <registry>"
 echo "After login run: docker-credential-pass list; cat ~/.docker/config.json; pass show"
 ```
 
-### 도메인 등록
+# 도메인 등록
 
 도커 로그인을 진행해서 도메인을 등록한다.
 
@@ -134,14 +132,14 @@ sudo docker login <docker hub | registry address>
 >> succeed
 ```
 
-### 리스트 업
+# 리스트 업
 
 ```shell
 sudo docker-credential-pass list
 >> {"example.com":"username"}
 ```
 
-### 활성화
+# 활성화
 
 아래 명령어를 입력하면 위에서 인증 키를 생성할 때 입력한 패스워드를 입력할 수 있는 창이 뜰 것이다. 이후에 저장소에 접근하면 정상적으로 가능해진다.
 
