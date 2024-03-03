@@ -994,13 +994,13 @@ search {
 
 #sidebar-trigger,
 #search-trigger {
-  display: none;
+  display: block;
 }
 
 /* 'Cancel' link */
 #search-cancel {
   color: var(--link-color);
-  display: none;
+  display: block;
   white-space: nowrap;
 
   @extend %cursor-pointer;
