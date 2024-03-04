@@ -19,7 +19,7 @@ mermaid: true
 이벤트 루프는 node.js의 기본적인 동작 방식이다.
 Call Stack과 Callback Queue의 상태를 체크하여, Call Stack이 빈 상태가 되면 Callback Queue의 첫번째 콜백을 Call Stack으로 밀어넣는다. 이를 틱(Tick)이라 한다.
 
-- Call Stack: 코드가 실행될 때 쌓이는 곳. Stack 형태로 쌓임
+- Call Stack: 코드가 실행될 때 쌓이는 곳. Stack 형태로 쌓임. 함수를 실행하고 값을 **return 하면 call Stack에서 제거**된다.
 - Callback Queue: 비동기적으로 실행된 콜백함수가 보관된 영역. eg. setTimeout에서 타이머 완료 후 실행되는 함수 등...
 
 이벤트 루프는 총 6개의 단계를 가진다.
