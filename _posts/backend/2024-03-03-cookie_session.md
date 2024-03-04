@@ -44,20 +44,4 @@ mermaid: true
 <img src="assets/img/session_cookie_diff.png" />
 <em>세션과 쿠키의 차이</em>
 
-# RDBMS(Relational Database Management System)
-
-관계형 데이터베이스를 생성하고 수정하여 관리하는 소프트웨어
-
-- 모든 데이터를 2차원 테이블로 표현
-- DB 레코들을 CRUD 연산할 수 있게 하는 소프트웨어
-- 테이블은 row (record, tuple)과 column(field, item)으로 이뤄진 기본 데이터 저장 단위
-- 상호관련성을 가진 테이블 집합
-- 데이터베이스 설계도를 E-R(Entity Relationship) 모델로 표현
-- MariaDB, Mysql, PostgreSQL... 등이 포함됨
-
-## CRUD 작업
-
-- Create: 생성 - INSERT
-- Read: 읽기 - SELECT
-- Update: 업데이트 - UPDATE
-- Delete: 삭제 - DELETE
+[참고 링크](https://velog.io/@hihijin/Backend-%EC%9D%B8%EC%A6%9D-%EB%B3%B4%EC%95%88-%EC%BF%A0%ED%82%A4%EC%84%B8%EC%85%98)
