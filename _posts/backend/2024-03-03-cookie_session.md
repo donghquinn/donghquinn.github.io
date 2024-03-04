@@ -1,9 +1,9 @@
 ---
 title: 쿠키와 세션
 author: donghquinn
-date: 2024-03-03 04:50:00 +0900
+date: 2024-03-04 02:28:00 +0900
 categories: [Backend]
-tags: [rdb, rdbms database, relation]
+tags: [cookie, session]
 comments: true
 math: true
 mermaid: true
