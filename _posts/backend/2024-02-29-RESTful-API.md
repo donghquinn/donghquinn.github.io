@@ -12,7 +12,7 @@ mermaid: true
 #   alt: RESTful API
 ---
 
-<img src="assets/img/restapi.png" />
+<img src="assets/img/backend/restapi.png" />
 <em>RESTful API</em>
 
 백엔드 코드를 구현할 때 RESTful API 라는 개념이 자주 등장한다. 과연 이게 무엇일까
@@ -100,4 +100,4 @@ REST 기반으로 API를 구현한 것을 RESTful 웹 서비스라고 지칭한�
 5. URI는 최대한 소문자를 사용한다.
 6. 파일 확장자는 URI에 포함하지 않는다.
 
-[참고 링크](https://hahahoho5915.tistory.com/54)
+- [참고 링크](https://hahahoho5915.tistory.com/54)

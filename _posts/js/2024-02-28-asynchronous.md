@@ -12,7 +12,7 @@ mermaid: true
 #   alt: RESTful API
 ---
 
-<img src="assets/img/async.png" />
+<img src="assets/img/js/async/async.png" />
 <em> Async/Await </em>
 
 비동기란 무엇일까?
@@ -41,4 +41,4 @@ mermaid: true
 
 동기는 "순차적", 비동기는 "동시에"라고 외워야 겠다.
 
-[참고 링크](https://yozm.wishket.com/magazine/detail/1982/)
+- [참고 링크](https://yozm.wishket.com/magazine/detail/1982/)

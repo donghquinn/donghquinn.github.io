@@ -12,7 +12,7 @@ mermaid: true
 #   alt: Docker Logo
 ---
 
-<img src="assets/img/docker.png" />
+<img src="assets/img/docker/docker.png" />
 <em> Docker Logo </em>
 
 # 컨테이너 오케스트레이션

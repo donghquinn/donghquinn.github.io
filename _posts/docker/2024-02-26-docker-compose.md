@@ -13,7 +13,7 @@ mermaid: true
 #   alt: Docker Logo
 ---
 
-<img src="assets/img/docker.png" />
+<img src="assets/img/docker/docker.png" />
 <em> Docker Logo </em>
 
 도커를 사용하는 방법은 도커 CLI를 사용하거나 컴포즈를 사용하는 것이다.
