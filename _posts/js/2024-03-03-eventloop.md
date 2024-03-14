@@ -9,6 +9,9 @@ math: true
 mermaid: true
 ---
 
+![Desktop View](assets/img/js/eventloop.png){: .shadow}
+_Event Loop_
+
 <img src="assets/img/js/eventloop.png"/>
 <em>Event Loop</em>
 

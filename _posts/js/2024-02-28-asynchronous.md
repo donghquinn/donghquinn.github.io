@@ -12,8 +12,8 @@ mermaid: true
 #   alt: RESTful API
 ---
 
-<img src="assets/img/js/async/async.png" />
-<em> Async/Await </em>
+![Desktop View](assets/img/js/async/async.png){: .shadow}
+_Async/Await_
 
 비동기란 무엇일까?
 
