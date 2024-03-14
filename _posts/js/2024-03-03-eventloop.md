@@ -12,9 +12,6 @@ mermaid: true
 ![Desktop View](assets/img/js/eventloop.png){: .shadow}
 _Event Loop_
 
-<img src="assets/img/js/eventloop.png"/>
-<em>Event Loop</em>
-
 이벤트 루프란 무엇일까?
 
 # Event Loop
