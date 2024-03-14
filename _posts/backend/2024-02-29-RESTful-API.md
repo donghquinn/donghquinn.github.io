@@ -12,8 +12,8 @@ mermaid: true
 #   alt: RESTful API
 ---
 
-<img src="assets/img/backend/restapi.png" />
-<em>RESTful API</em>
+![Desktop View](assets/img/backend/restapi.png){: .shadow }
+_RESTful API_
 
 백엔드 코드를 구현할 때 RESTful API 라는 개념이 자주 등장한다. 과연 이게 무엇일까
 
