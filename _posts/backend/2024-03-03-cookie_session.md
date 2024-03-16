@@ -44,4 +44,6 @@ mermaid: true
 <img src="assets/img/backend/cookieSession/session_cookie_diff.png" />
 <em>세션과 쿠키의 차이</em>
 
-- [참고 링크](https://velog.io/@hihijin/Backend-%EC%9D%B8%EC%A6%9D-%EB%B3%B4%EC%95%88-%EC%BF%A0%ED%82%A4%EC%84%B8%EC%85%98)
+# 참고 링크
+
+- [인증/보안 (쿠키, 세션)](https://velog.io/@hihijin/Backend-%EC%9D%B8%EC%A6%9D-%EB%B3%B4%EC%95%88-%EC%BF%A0%ED%82%A4%EC%84%B8%EC%85%98)

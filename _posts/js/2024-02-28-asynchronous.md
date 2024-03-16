@@ -41,4 +41,6 @@ _Async/Await_
 
 동기는 "순차적", 비동기는 "동시에"라고 외워야 겠다.
 
-- [참고 링크](https://yozm.wishket.com/magazine/detail/1982/)
+# 참고 링크
+
+- [주니어 웹 개발자가 알아야 할 "비동기 통신"](https://yozm.wishket.com/magazine/detail/1982/)

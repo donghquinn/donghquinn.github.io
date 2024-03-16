@@ -45,6 +45,8 @@ Call Stack과 Callback Queue의 상태를 체크하여, Call Stack이 빈 상태
 이벤트 루프는 우선적으로 Microtask Queue를 먼저 확인한다.
 MicroStack Queue에 콜백이 있다면 이를 먼저 Call Stack에 담는다.
 
-- [참고 링크 1](https://medium.com/sjk5766/javascript-%EB%B9%84%EB%8F%99%EA%B8%B0-%ED%95%B5%EC%8B%AC-event-loop-%EC%A0%95%EB%A6%AC-422eb29231a8)
+# 참고 링크
 
-- [참고 링크 2](https://pozafly.github.io/javascript/event-loop-and-async/)
+- [JavaScript 비동기 핵심 Event Loop 정리](https://medium.com/sjk5766/javascript-%EB%B9%84%EB%8F%99%EA%B8%B0-%ED%95%B5%EC%8B%AC-event-loop-%EC%A0%95%EB%A6%AC-422eb29231a8)
+
+- [Event Loop와 비동기](https://pozafly.github.io/javascript/event-loop-and-async/)
